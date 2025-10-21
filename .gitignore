@@ -1,0 +1,12 @@
+# Build artifacts and temporary files
+*.log
+*.tmp
+target/
+build/
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+*.swp
